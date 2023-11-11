@@ -1,0 +1,23 @@
+body{
+    background-color: #eaeaea;
+}
+.star-div{
+    text-align: center;
+}
+.fa:hover{
+     color: orange;
+}
+#outer-div{
+    background-color: white;
+    width: 10%;
+    text-align: center;
+    padding: 20px;
+    margin-left: 36%;
+    margin-top: 36px;
+}
+.fa-5x{
+    color: #ffffff;
+}
+.highlight{
+    color: orange;
+}
